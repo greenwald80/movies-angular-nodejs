@@ -1,0 +1,15 @@
+{
+  "name": "movies-angular-nodejs",
+  "version": "1.0.0",
+  "description": "Movies API, node.js backend, angular frontend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"cd server-side-nodejs && npm run dev\" \"cd client-side-angular && npm run start\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^6.2.0"
+  }
+}

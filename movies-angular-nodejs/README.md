@@ -1,0 +1,1 @@
+https://blog.ng-book.com/how-to-integrate-angular-with-a-net-core-project-lets-go-to-the-movies/
